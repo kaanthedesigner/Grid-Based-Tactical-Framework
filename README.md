@@ -2,7 +2,7 @@
 # 3D Grid-Based Tactical Framework (Pure Logic & Decoupled Architecture)
 
 <p align="center">
-  <img src="(https://github.com/kaanthedesigner/Grid-Based-Tactical-Framework/blob/main/gitegif.gif?raw=true)" alt="gitegif" width="600">
+  <img src="https://github.com/kaanthedesigner/Grid-Based-Tactical-Framework/blob/main/gitegif.gif?raw=true" alt="gitegif" width="600">
 </p>
 
 A robust, performance-optimized grid system developed for turn-based tactical games in Unity. This project focuses on professional software architecture, strict decoupling of gameplay logic from internal engine visuals, and real-time visual feedback for player movement.
